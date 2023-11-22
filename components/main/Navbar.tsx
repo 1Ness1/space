@@ -7,14 +7,14 @@ const Navbar = () => {
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a className="h-auto w-auto flex flex-row items-center" href="#about-me">
           <Image 
-            src="/NavLogo.png"
+            src="/placeholder.svg"
             alt="logo"
             width={70}
             height={70}
             className="cursor-pointer hover:animate-slowspin"
           />
 
-          <span className="font-bold ml-[10px] hidden md:block text-gray-300">WebChain Dev</span>
+          <span className="font-bold ml-[10px] hidden md:block text-gray-300">Placeholder</span>
         </a>
 
         <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
