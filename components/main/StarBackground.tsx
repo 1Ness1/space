@@ -21,7 +21,7 @@ const StarBackground = (props: any) => {
     <group rotation={[0,0, Math.PI / 4]}>
         <Points
         ref={ref}
-        positions={parseInt(sphere)}
+        positions={sphere}
         stride={3}
         frustumCulled
         {...props}
