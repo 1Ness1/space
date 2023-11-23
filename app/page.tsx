@@ -1,6 +1,6 @@
-import Encription from '@/components/main/Encription';
-import { Hero } from '@/components/main/Hero';
-import Skills from '@/components/main/Skills';
+import Encription from "@/components/main/Encription";
+import { Hero } from "@/components/main/Hero";
+import Skills from "@/components/main/Skills";
 const Home = () => {
   return (
     <main className="h-full w-full">
@@ -10,7 +10,7 @@ const Home = () => {
         <Encription />
       </div>
     </main>
-  )
-}
+  );
+};
 
 export default Home;
