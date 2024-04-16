@@ -10,25 +10,25 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
+    "@react-three/drei": "^9.105.4",
+    "@react-three/fiber": "^8.16.2",
+    "framer-motion": "^11.1.1",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "react-icons": "^4.12.0"
+    "react-icons": "^4.12.0",
+    "tailwindcss": "^3.4.3",
+    "three": "^0.163.0"
   },
   "devDependencies": {
-    "@react-three/drei": "^9.88.16",
-    "@react-three/fiber": "^8.15.11",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.3",
-    "framer-motion": "^10.16.5",
     "postcss": "^8",
     "react-intersection-observer": "^9.5.3",
-    "tailwindcss": "^3.3.0",
-    "three": "^0.158.0",
     "typescript": "^5"
   }
 }
