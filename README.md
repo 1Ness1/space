@@ -13,4 +13,6 @@ Technologies:
 - [Typescript](https://www.npmjs.com/package/typescript)
 - [Three.js](https://www.npmjs.com/package/three.js)
 
+
 [Production](https://majestic-gumdrop-2aae1c.netlify.app/)
+![Preview](./intro.png)
